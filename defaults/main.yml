@@ -1,0 +1,5 @@
+---
+# defaults file for singh-role
+web: apache2
+db: mariadb-server
+db_svc: mysql
